@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/d3scatterplot/static/css/main.ab98f870.chunk.css",
+    "main.js": "/d3scatterplot/static/js/main.e9007b41.chunk.js",
+    "main.js.map": "/d3scatterplot/static/js/main.e9007b41.chunk.js.map",
+    "runtime~main.js": "/d3scatterplot/static/js/runtime~main.bcc13cd2.js",
+    "runtime~main.js.map": "/d3scatterplot/static/js/runtime~main.bcc13cd2.js.map",
+    "static/js/2.2f16eede.chunk.js": "/d3scatterplot/static/js/2.2f16eede.chunk.js",
+    "static/js/2.2f16eede.chunk.js.map": "/d3scatterplot/static/js/2.2f16eede.chunk.js.map",
+    "index.html": "/d3scatterplot/index.html",
+    "precache-manifest.334ae8cf2f9121b1622c8980f0343f20.js": "/d3scatterplot/precache-manifest.334ae8cf2f9121b1622c8980f0343f20.js",
+    "service-worker.js": "/d3scatterplot/service-worker.js",
+    "static/css/main.ab98f870.chunk.css.map": "/d3scatterplot/static/css/main.ab98f870.chunk.css.map"
+  }
+}
