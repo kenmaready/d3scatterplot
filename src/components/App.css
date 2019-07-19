@@ -1,0 +1,37 @@
+#chart-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+#chart-content {
+    display: inline-block;
+    top: 0;
+    left: 0;
+}
+
+#chart .bar {
+    fill: blue;
+}
+
+#chart .bar:hover {
+    fill: whitesmoke;
+}
+
+#chart .tooltip {
+    position: absolute;
+    font-size: 12px;
+    padding: 3px;
+    text-align: left;
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    pointer-events: none;
+}
+
+#chart .footnote {
+    font-size: 12px;
+    font-style: italic;
+}
