@@ -35,5 +35,5 @@
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },
-  "homepage": "http://kenmaready.github.io/d3scatterplot"
+  "homepage": "http://kenmaready.github.io/d3-scatterplot"
 }

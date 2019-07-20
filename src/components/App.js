@@ -127,7 +127,7 @@ class App extends React.Component {
             // handmade legend
             const legend_x = width - padding - 120;
             const legend_y = padding + 50;
-            svg.append("rect").attr("x", legend_x-20).attr("y", legend_y-40).attr("width",140).attr("height", 80).style("fill","lightgray")
+            svg.append("rect").attr("x", legend_x-20).attr("y", legend_y-40).attr("width",140).attr("height", 80).style("fill","lightgray").attr("id","legend")
             svg.append("text").attr("x",legend_x - 6).attr("y", legend_y-16).text("legend:")
             svg.append("circle").attr("cx",legend_x).attr("cy",legend_y).attr("r",6).style("fill", doping_color)
             svg.append("circle").attr("cx",legend_x).attr("cy",legend_y + 20).attr("r",6).style("fill", no_doping_color)
